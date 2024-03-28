@@ -1,0 +1,95 @@
+This help files contains guides on how to use some of the functions of Quirk Assist.
+If there is anything that is still unclear, post on the forum thread, or pm me about it.
+
+HOW TO USE A QUIRK
+1. Run Quirk Assist
+
+2. Click "use" over whatever quirk you want to be using. Use "More" and "Back"
+to cycle through the visual list.
+
+3. Begin typing somewhere. It will be typed in the quirk you have selected.
+
+HOW TO STOP USING A QUIRK
+1. Click the "Reset" button in the quirk assist window
+
+HOW TO USE A PREFIX ( :33 <  )
+--A prefix will be manually added when you press enter, but if you need
+to add one for any other reason, pressing control will add it in.
+
+HOW TO CREATE A CUSTOM QUIRK FILE
+--Custom quirks are possible, but a little bit tricky to do. I've tried to make
+the proccess as simple as possible, but it may take some experamentation
+on your part. This guide will get you started though.
+
+1. Run the program "QuirkEditor.exe"
+
+2. Create your quirk using this program. There are a few options around,
+and it may be a good idea to load up some of the canon quirks to look at
+how they work. Other than that, I've tried to make it as self explanatory
+as possible
+
+3. Save the quirk in a location of your choosing. You can either use the
+"Select File" button in Quirk Assist to use it, or follow the steps to add
+it to the visual list.
+
+HOW TO SELECT A QUIRK THAT IS NOT IN THE VISUAL LIST
+--Some quirk files(probably ones you've made) are not listed in the visual
+list because they have not been set up to(or improperly set up to). You can
+still use these, but you have to follow these steps:
+
+1. Click the "Select File" Button in the Quirk Assist window.
+
+2. Find the quirk file(it will be in .txt format)
+
+3. Open it up. You will now be using this quirk.
+
+
+HOW TO ADD YOUR CUSTOM QUIRK TO THE VISUAL LIST
+--Just creating a quirk and placing it somewhere will not automatically add
+it to the visual list in the quirk assist window. Some steps will have to be taken
+
+1. First, open up the "Quirks" folder.
+
+2. In this folder, you'll see two other folders, "Canon" and "Fan". Open up "Fan"
+
+3. Here, create a new folder. You can name it whatever you want, but it would
+be prefferable to name it after whatever fan troll the quirk is for, just to keep
+yourself organized.
+
+4. Open up the folder you just made, and inside, you'll want to place an image
+for your quirk. The image is how the program finds the quirk in these folders,
+so for it to appear in the window, it needs an image. The image must be
+150x200 in size, and PNG in format. If the image is the wrong size, it will
+be resized by the program.
+
+5. Finally, in the same folder as your image, place your quirk file. It should have
+the same name as the image file, and it is case sensitive. With these two files next
+to each other, you can now go and open Quirk Assist, and your quirk will be
+one of the ones listed visually.
+
+HOW TO USE QUICK SWITCH
+--quick switch lets you switch between quirks quickly by pressing a shorcut key.
+
+1. First, you must define the quick switch key, which will be either F9, F10, F11,
+or F12. Define it by pressing this key.
+
+2. You will be prompted to find the quirk file you want to be able to switch to
+quickly. Find the .txt file that contains the quirk.
+
+3. After you've selected this file, and have opened it, you can now press the key
+you defined it as to switch to that quirk without having to go through the Quirk
+Assist window.
+
+4. It is also important to note that the F3 key acts as a quick switch to using no
+quirk at all.
+
+HOW TO CHANGE YOUR QUIRK ASSIST WINDOW SKIN
+--The background image of the window is easily accessible, and can quicky be
+changed into whatever you want to do with it.
+
+1. Open the "img" folder
+
+2. Inside will be a .png file named "Background". You can edit this file to your liking,
+but be sure to keep the name "Background" and keep it in png format. Also,
+keep in mind that the window is only 800x600 and anything outside that frame will
+not be visible.
